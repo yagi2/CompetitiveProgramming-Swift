@@ -7,4 +7,4 @@
 
 import Foundation
 
-ABSI().main()
+ABSJ().main()
