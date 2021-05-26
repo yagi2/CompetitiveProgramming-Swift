@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C512EF2E265E7B4900AB2691 /* 2021-05-26_21-49K.swift in Sources */ = {isa = PBXBuildFile; fileRef = C512EF2D265E7B4900AB2691 /* 2021-05-26_21-49K.swift */; };
 		C55A2EB526567B5100838201 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C55A2EB426567B5100838201 /* main.swift */; };
 		C55A2EC02656807500838201 /* 2021-05-20_20-41A.swift in Sources */ = {isa = PBXBuildFile; fileRef = C55A2EBF2656807500838201 /* 2021-05-20_20-41A.swift */; };
 		C55A2EC4265681DA00838201 /* 2021-05-20_20-42A.swift in Sources */ = {isa = PBXBuildFile; fileRef = C55A2EC3265681DA00838201 /* 2021-05-20_20-42A.swift */; };
@@ -34,6 +35,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C512EF2D265E7B4900AB2691 /* 2021-05-26_21-49K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2021-05-26_21-49K.swift"; sourceTree = "<group>"; };
 		C55A2EB126567B5100838201 /* CompetitiveProgrammingSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CompetitiveProgrammingSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		C55A2EB426567B5100838201 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C55A2EBF2656807500838201 /* 2021-05-20_20-41A.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2021-05-20_20-41A.swift"; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				C55A2ED12657C19500838201 /* 2021-05-21_19-23H.swift */,
 				C5DCBF892658F5D100F5F072 /* 2021-05-22_17-18I.swift */,
 				C5DCBF8B2659F4BC00F5F072 /* 2021-05-23_11-26J.swift */,
+				C512EF2D265E7B4900AB2691 /* 2021-05-26_21-49K.swift */,
 			);
 			path = "AtCoder Beginners Selection";
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			files = (
 				C55A2ECA265685CE00838201 /* 2021-05-20_20-55D.swift in Sources */,
 				C5DCBF8A2658F5D100F5F072 /* 2021-05-22_17-18I.swift in Sources */,
+				C512EF2E265E7B4900AB2691 /* 2021-05-26_21-49K.swift in Sources */,
 				C55A2EC62656832200838201 /* 2021-05-20_20-44B.swift in Sources */,
 				C5DCBF8C2659F4BC00F5F072 /* 2021-05-23_11-26J.swift in Sources */,
 				C55A2ED02657BAF500838201 /* 2021-05-21_18-54G.swift in Sources */,
